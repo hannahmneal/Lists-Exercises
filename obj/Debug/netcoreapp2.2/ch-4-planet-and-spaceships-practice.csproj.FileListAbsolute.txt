@@ -1,0 +1,11 @@
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/bin/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.deps.json
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/bin/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.runtimeconfig.json
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/bin/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.runtimeconfig.dev.json
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/bin/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.dll
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/bin/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.pdb
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/obj/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.csprojAssemblyReference.cache
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/obj/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.csproj.CoreCompileInputs.cache
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/obj/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.AssemblyInfoInputs.cache
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/obj/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.AssemblyInfo.cs
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/obj/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.dll
+/Users/hannahneal/workspace/C-sharp/ch-4-planet-and-spaceships-practice/obj/Debug/netcoreapp2.2/ch-4-planet-and-spaceships-practice.pdb
