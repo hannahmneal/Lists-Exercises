@@ -9,12 +9,12 @@ namespace ch_4_planet_and_spaceships_practice
         {
             List<string> planetList = new List<string>(){"Mercury", "Mars"};
 
-// Add() Jupiter and Saturn at the end of the list.
+// 1. Add() Jupiter and Saturn at the end of the list.
 
             planetList.Add("Jupiter");
             planetList.Add("Saturn");
 
-// Create another List that contains that last two planet of our solar system.
+// 2. Create another List that contains that last two planet of our solar system.
 
             List<string> smallPlanets = new List<string>(){"Uranus", "Neptune"};
 
@@ -96,7 +96,7 @@ planetList.Add("Pluto?");
 
     // 3. Inside the body of the for loop determine if the current loop index is contained inside of the numbers list. Print a message to the console indicating whether the index is in the list.
 
-    for(int n=0; n < numbers.Count-1; n++) {
+    for(int n=0; n <= numbers.Count-1; n++) {
         Console.WriteLine($"numbers[{n}]: {numbers[n]}");
     }
     //Console result:
